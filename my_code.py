@@ -1,5 +1,6 @@
 import pandas as pd
 import os
+import dvc
 
 data={
     'Name': ['Alice', 'Bob', 'Charlie', 'David'],
